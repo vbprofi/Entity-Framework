@@ -1,0 +1,5 @@
+#EF6SQLiteTest
+EF6SQLiteTest/bin/*
+EF6SQLiteTest/obj/*
+.vs/**/*
+
